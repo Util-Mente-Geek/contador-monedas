@@ -1,2 +1,3 @@
 # contador-monedas
-Identificador de Monedas con IR | Sensor de Monedas | 
+Identificador de Monedas con Infra Rojo | Sensor de Monedas v1 
+
